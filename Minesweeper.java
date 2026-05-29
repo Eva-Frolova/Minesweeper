@@ -4,6 +4,9 @@ import java.awt.Font;
 import java.util.ArrayList;
 
 //Main class where everything is ran
+/*
+ * @author Eva
+ */
 public class Minesweeper {
     
     private static final ArrayList<Tile> TileList = new ArrayList<>();
